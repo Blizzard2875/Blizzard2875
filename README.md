@@ -1,6 +1,6 @@
 <h1 align="center">Hey 👋, Welcome To My GitHub Profile I'm Blizzard</h1>
 <h3 align="center">Currently I'm Learning Discord.js And Databases For My Pokémon Catching Bot</h3>
-https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blizzard2875" alt="blizzard2875" /> </p>
 
 - 🔭 I’m currently working on PokéCatch [https://discord.gg/RnHQwxn](https://discord.gg/RnHQwxn)
