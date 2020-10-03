@@ -30,3 +30,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=blizzard2875&layout=compact" alt="blizzard2875" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blizzard2875&show_icons=true" alt="blizzard2875" /></p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Blizzard2875)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/https://www.reddit.com/r/spacepearltimediamond)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/RnHQwxn)  
