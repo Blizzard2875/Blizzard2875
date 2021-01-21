@@ -3,19 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blizzard2875" alt="blizzard2875" /> </p>
 
-- 🔭 I’m currently working on PokéCatch [https://discord.gg/RnHQwxn](https://discord.gg/RnHQwxn)
-
 - 🌱 I’m currently learning **Discord.js**
 
 - 🤝 I’m looking for help with **Discord.js**
 
 - 👨‍💻 All of my public projects are available at [https://github.com/Blizzard2875](https://github.com/Blizzard2875)
-
-- 📝 Check Out My Discord Server To Try Out PokéCatch [https://discord.gg/RnHQwxn](https://discord.gg/RnHQwxn)
-
-- 💬 Ask me about **PokéCatch**
-
-- 📫 How to reach me **https://discord.gg/RnHQwxn**
 
 - ⚡ Fun fact **Crows can hold grudges against specific individual people.**
 
