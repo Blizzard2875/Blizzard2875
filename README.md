@@ -3,10 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blizzard2875" alt="blizzard2875" /> </p>
 
-- 🌱 I’m currently learning **Discord.js**
-
-- 🤝 I’m looking for help with **Discord.js**
-
 - 👨‍💻 All of my public projects are available at [https://github.com/Blizzard2875](https://github.com/Blizzard2875)
 
 - ⚡ Fun fact **Crows can hold grudges against specific individual people.**
