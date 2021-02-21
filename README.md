@@ -6,7 +6,7 @@
 
 - ⚡ Fun fact **Crows can hold grudges against specific individual people.**
 
-![alt text](https://github.com/[Blizzard2875]/[Blizzard2875]/blob/[main]/image.jpg?raw=true)
+https://raw.githubusercontent.com/Blizzard2875/Blizzard2875/main/1500x500.png%20(2).png
 
 <h3 align="left">Social Platforms:</h3>
 
