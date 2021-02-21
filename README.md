@@ -5,8 +5,7 @@
 - 👨‍💻 All of my public projects are available at [https://github.com/Blizzard2875](https://github.com/Blizzard2875)
 
 - ⚡ Fun fact **Crows can hold grudges against specific individual people.**
-
-https://raw.githubusercontent.com/Blizzard2875/Blizzard2875/main/1500x500.png%20(2).png
+![alt text](https://github.com/Blizzard2875/Blizzard2875/blob/main/1500x500.png%20(2).png)
 
 <h3 align="left">Social Platforms:</h3>
 
