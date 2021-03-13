@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my public projects are available at [https://github.com/Blizzard2875](https://github.com/Blizzard2875)
 
-- ⚡ Fun fact **Bumblebees can fly higher than Mount Everest.**
+- ⚡ Fun fact: **Bumblebees can fly higher than Mount Everest.**
 
 <h3 align="left">Social Platforms:</h3>
 
